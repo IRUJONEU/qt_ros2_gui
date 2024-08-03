@@ -6,3 +6,4 @@ This package only provides a template for creating ROS2 GUI applications using Q
 - Qt-based GUI compatible with ROS2
 - Customizable using Qt Designer
 - Basic ROS2 publish and subscribe functionality included
+- ROS Humble tested
