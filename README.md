@@ -1,9 +1,5 @@
-# qt_ros2_gui
-A ROS2 GUI template using Qt, with Qt Designer support. A starting point for custom ROS2 GUI applications.
-
-## ROS2 Qt GUI Template
-
-This package provides a template for creating ROS2 GUI applications using Qt.
+# ROS2 Qt GUI Template
+This package only provides a template for creating ROS2 GUI applications using Qt, with Qt Designer support. A starting point for custom ROS2 GUI applications.
 
 ## Features
 
